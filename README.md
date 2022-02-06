@@ -4,4 +4,4 @@
          Predict the percentage of an student based on no of the study hours.
 
 #Task 6:Prediction using Decision Tree Algorithm
-         Create the decision tree classifier & visualize it graphically.
+         Create the decision tree classifier and visualize it graphically.
