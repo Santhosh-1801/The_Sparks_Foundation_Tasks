@@ -2,5 +2,8 @@
 
 #Task 1:Prediction using Supervised ML:
          Predict the percentage of an student based on no of the study hours.
+         
+ #Task 6:Prediction using Decision Tree Algorithm:       
+         Create the Decision Tree Classifier and visualize it graphically.
 
 
